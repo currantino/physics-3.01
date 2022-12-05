@@ -29,10 +29,10 @@
 
     У одного из электродов(правого): $E\approxeq\dfrac{12,60 – 11,40}{0,28 – 0,26} \approx 60 \dfrac{В}{м}.$
 
-2. Теперь оценим поверхностную плотность заряда на электродах, используя следующую формулу: $ \sigma ' \approxeq - \varepsilon_0 \dfrac{\Delta{\varphi}}
-{\Delta{l_n}} $
+2. Теперь оценим поверхностную плотность заряда на электродах, используя следующую формулу: $\sigma ' \approxeq - \varepsilon_0 \dfrac{\Delta{\varphi}}
+{\Delta{l_n}}$
 
-    $ \sigma ' \approxeq -8,85\cdot10^{-12} \dfrac{Ф}{м} \cdot (-60) \dfrac{В}{м}\approx 5,3 \cdot 10^{-10} \dfrac{Кл}{м^2}$
+    $\sigma ' \approxeq -8,85\cdot10^{-12} \dfrac{Ф}{м} \cdot (-60) \dfrac{В}{м}\approx 5,3 \cdot 10^{-10} \dfrac{Кл}{м^2}$
 
 3. Оценим значения напряженности в областях с максимальной напряженностью по формуле $E\approxeq\dfrac{\varphi_1 - \varphi_2}{l_{1,2}}$:
    - Справа от кольца $E\approxeq\dfrac{10,2 - 9,2\ В}{0,232 - 0,215\ м}=58,82\dfrac{В}{м}$
